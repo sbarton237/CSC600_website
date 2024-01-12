@@ -7,28 +7,28 @@ h1{
     color:aliceblue;
     text-align:center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  }
-  h2{
+}
+h2{
     font-size:37.5;
     color:azure;
     text-align:center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  }
-  h3{
+}
+h3{
     font-size:35;
     color:antiquewhite;
     text-align:center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  }
-  p{
+}
+p{
     font-size:18;
     color:whitesmoke;
     text-align:center;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-  }
-  a{
+}
+a{
     font-size:18;
     color:darkgrey;
     text-align:center;
     font-family:'Times New Roman', Times, serif;
-  }
+}
