@@ -6,6 +6,10 @@
         <link href="style.css" rel="stylesheet" type="text/css" />
     </head>
     <body>
-        <h1>Room: </h1>
+        <h1 id="name">Room: </h1>
+        <script> <!--https://www.w3schools.com/html/html_scripts.asp-->
+            var key = window.location.search.substr(6);
+            document.getElementById("name").innerHTML = "Room: " + key;
+        </script>
     </body>
 </html>
