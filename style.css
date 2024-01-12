@@ -24,11 +24,5 @@ p{
     font-size:18;
     color:whitesmoke;
     text-align:center;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-}
-a{
-    font-size:18;
-    color:darkgrey;
-    text-align:center;
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
