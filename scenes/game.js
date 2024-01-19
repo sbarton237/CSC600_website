@@ -1,3 +1,5 @@
+import Card from '../helpers/card';
+
 export default class Game extends Phaser.Scene {
     constructor() {
         super({
@@ -71,7 +73,10 @@ export default class Game extends Phaser.Scene {
         this.input.setDraggable(this.card);
 
         this.dealCards = () => {
-
+            for ( let i = 0; i < 4; i ++) {
+                let playerCard = new Card(this);
+                playerCard.render(475 + (i * 100), 650, 'back');
+            }
         }
 
         this.dealText.on('pointerdown', function () {
