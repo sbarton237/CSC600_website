@@ -2,6 +2,9 @@ body {
     background-color: lightseagreen;
     text-align: center;
     margin: 100px;
+    max-width: 50em;
+    line-height: 1.5;
+    padding: 4em 1em;
 }
 h1{
     font-size:40;
